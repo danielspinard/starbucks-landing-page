@@ -79,4 +79,12 @@
     .content .img-box img{
         max-width: 300px;
     }
+
+    .content .thumb-img li img{
+        margin: -85px 0px!important;
+    }
+
+    .content .thumb-img li img{
+        max-width: 50px;
+    }
 }
