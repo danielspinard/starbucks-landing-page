@@ -105,6 +105,12 @@
             </li>
         </ul>
     </section>
+    
+    <footer>
+        <span>developed</span>
+        <span class="heart">&hearts;</span> by
+        <span><a href="https://github.com/danielspinard">Daniel M.</a></span>
+    </footer>
 
     <script src="./src/js/script.js"></script>
 </body>

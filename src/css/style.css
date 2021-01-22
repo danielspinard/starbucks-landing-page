@@ -160,3 +160,24 @@ header ul li a{
     background-color: #017143;
     clip-path: circle(600px at right 800px);
 }
+
+/*
+ * credits
+ */
+footer{
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    font-weight: 300;
+}
+
+footer a{
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+footer .heart{
+    color: #FB4049;
+    font-size: 20px;
+}
