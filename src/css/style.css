@@ -58,3 +58,25 @@ header ul li a{
     justify-content: space-between;
     align-items: center;
 }
+
+.content .text-box{
+    position: relative;
+    max-width: 600px;
+}
+
+.content .text-box h2{
+    color: #333;
+    font-size: 4em;
+    line-height: 1.4em;
+    font-weight: 500;
+}
+
+.content .text-box h2 span{
+    color: #017143;
+    font-size: 1.2em;
+    font-weight: 900;
+}
+
+.content .text-box p{
+    color: #017143;
+}
