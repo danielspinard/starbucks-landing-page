@@ -87,4 +87,8 @@
     .content .thumb-img li img{
         max-width: 50px;
     }
+
+    .circle{
+        clip-path: circle(400px at center bottom);
+    }
 }
