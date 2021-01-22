@@ -70,4 +70,13 @@
     .content .text-box{
         max-width: 100%;
     }
+
+    .content .img-box{
+        max-width: 100%;
+        justify-content: center;
+    }
+
+    .content .img-box img{
+        max-width: 300px;
+    }
 }
