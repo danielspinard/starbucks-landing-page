@@ -33,3 +33,20 @@ header .logo-header{
     position: relative;
     max-width: 80px;
 }
+
+header ul{
+    position: relative;
+    display: flex;
+}
+
+header ul li{
+    list-style: none;
+}
+
+header ul li a{
+    display: inline-block;
+    color: #333;
+    font-weight: 400;
+    text-decoration: none;
+    margin-left: 40px;
+}
