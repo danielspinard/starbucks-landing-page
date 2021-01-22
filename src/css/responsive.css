@@ -91,4 +91,12 @@
     .circle{
         clip-path: circle(400px at center bottom);
     }
+
+    .social-media{
+        background-color: #017143;
+        right: 0;
+        width: 50px;
+        border-top-left-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
 }
